@@ -1,0 +1,1 @@
+/* utilities.c */void 	EasyGetIndString	(short resID, short index, Str255 myString);void 	EasyOSTypeToPString	(OSType aType, char *pString);void	EasyAppendString	(Str255 original, Str255 added);void 	EasyGlobalToLocal 	(WindowPtr macWindow, Point globalPt, Point *localPt);void 	EasyLocalToGlobal 	(WindowPtr macWindow, Point localPt, Point *globalPt);

@@ -1,0 +1,1 @@
+/* memory.c */void 		EasyGetMoreMasters 	(short numberMasters);OSErr		EasyAllocateHandle	(long size, Handle* handleAddress);OSErr		EasyCheckMemory 	(long numberBytes);void 		EasyCheckMemoryReserve	(void);void 		EasyDisposeHandle 	(Handle *handleAddress);void		EasyDisposePointer 	(Ptr p);SignedByte	EasyLockHandle 		(Handle theHandle);

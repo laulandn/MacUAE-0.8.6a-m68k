@@ -1,0 +1,1 @@
+IMPORTANTYour GZipped adf files must end with ".adz" or ".gz" otherwisethey will get scrambled on disk writes.. This is due to zipped or not-zipped detection I've put in disk inserted stuff..Please, read also "Read me for filesystem" and "Read me for synchro"						Marin Saric							!ZAJC!/GDS
